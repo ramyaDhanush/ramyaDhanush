@@ -13,8 +13,8 @@
 ### Languages
 
 - JavaScript
+- C++/C
 - Python
-- Java
   
 ### Frameworks & Libraries
 
