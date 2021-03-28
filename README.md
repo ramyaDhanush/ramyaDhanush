@@ -1,5 +1,7 @@
 ### Hola! Welcome to Ramya's GITHUB
 
+![Profile views](https://gpvc.arturio.dev/ramyaDhanush)
+
 ## I'm a Software developer and avid learner
 
 - 😍 Working as Front End Developer
