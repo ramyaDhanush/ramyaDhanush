@@ -1,6 +1,6 @@
 ### Hola! Welcome to Ramya's GITHUB
 
-![Profile views](https://gpvc.arturio.dev/ramyaDhanush)
+![Profile views](https://gpvc.arturio.dev/ramyaDhanush) ![Profile Views](https://profile-counter.glitch.me/{ramyaDhanush}/count.svg)
 
 ## I'm a Software developer and avid learner
 
