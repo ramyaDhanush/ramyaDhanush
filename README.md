@@ -4,6 +4,7 @@
 ## I'm a Software developer and avid learner
 
 - 😍 Working as Front End Developer
+- 💕 Passionate about both FrontEnd & BackEnd
 - ✔  Learning everything that fascinates me
 - 💖 Love coding and developing stuffs🧬
 - ✨ I use Coursera, Udemy, Pluralsight and Youtube to learn stuffs💻
