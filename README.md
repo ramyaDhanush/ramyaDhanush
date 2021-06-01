@@ -4,19 +4,18 @@
 ## I'm a Software developer and avid learner
 
 - 😍 Working as Front End Developer
-- 💕 Passionate about both FrontEnd & BackEnd
-- ✔  Learning everything that fascinates me
-- 💖 Love coding and developing stuffs🧬
-- ✨ I use Coursera, Udemy, Pluralsight and Youtube to learn stuffs💻
-- 🤞  Read books📚 (not much)
-- 🎈  Fun fact : I like binge watching👀
-- 🏓 I love to watch & play sports 🏸🏏🎲♟
+- 💕 Passionate BackEnd development and building APIs
+- ✔  Curious learner
+- 💖 Hobby : Solving problems and development🧬
+- 🤞  Reading Fantasy books📚 
+- 🏓 Love to watch & play sports 🏸🏏🎲♟
 
 ### Languages
 
 - JavaScript
 - C++/C
 - Python
+- SQL
   
 ### Frameworks & Libraries
 
@@ -27,3 +26,4 @@
 ### Tools
 - VScode
 - Anaconda
+- Valentina DB
