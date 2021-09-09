@@ -4,7 +4,7 @@
 ## I'm a Software developer and avid learner
 
 - 😍 Working as Front End Developer
-- 💕 Passionate about building applictions & APIs, backend development and learning
+- 💕 Passionate about building applications & APIs, backend development and learning
 - ✔  Curious learner
 - 💖 Hobby : Solving problems and development🧬
 - 🤞  Reading Fantasy books📚 
