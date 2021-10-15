@@ -37,11 +37,11 @@
 
 ### Languages
 
+- Golang
 - JavaScript/TypeScript
 - C++/C
 - Python
-- MySQL
-- Go
+- SQL
   
 ### Frameworks & Libraries
 
