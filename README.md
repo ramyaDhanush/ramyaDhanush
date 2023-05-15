@@ -3,8 +3,8 @@
 ![Profile views](https://gpvc.arturio.dev/ramyaDhanush) 
 ## I'm a Software developer and avid learner
 
-- 😍 Working as Front End Developer
-- 💕 Passionate about building applications & APIs, backend development and learning
+- 😍 Skilled Back End Developer
+- 💕 Passionate about building applications that could scale 
 - ✔  Curious learner
 - 💖 Hobby : Solving problems and development🧬
 - 🤞  Reading Fantasy books📚 
@@ -38,19 +38,19 @@
 ### Languages
 
 - Golang
-- JavaScript/TypeScript
-- C++/C
+- Java
+- JavaScript
+- C++
 - Python
 - SQL
   
 ### Frameworks & Libraries
 
-- Polymer
 - React
 - Node
 
 ### Tools
+- IntelliJ IDEA
 - VScode
 - Anaconda
 - Valentina DB
-- PyCharm
