@@ -1,13 +1,11 @@
 ### Hola! Welcome to Ramya's GITHUB
 
-![Profile views](https://gpvc.arturio.dev/ramyaDhanush) 
+[![](https://visitcount.itsvg.in/api?id=ramyadhanush&icon=8&color=12)](https://visitcount.itsvg.in)
+
 ## I'm a Software developer and avid learner
 
 - 😍 Skilled Back End Developer
-- 💕 Passionate about building applications that could scale 
 - ✔  Curious learner
-- 💖 Hobby : Solving problems and development🧬
-- 🤞  Reading Fantasy books📚 
 - 🏓 Love to watch & play sports 🏸🏏🎲♟
 
 <!-- <h3>Things I code with</h3> -->
@@ -41,16 +39,14 @@
 - Java
 - JavaScript
 - C++
-- Python
 - SQL
   
 ### Frameworks & Libraries
 
 - React
-- Node
+- NodeJs
 
 ### Tools
 - IntelliJ IDEA
 - VScode
-- Anaconda
-- Valentina DB
+- Goland
